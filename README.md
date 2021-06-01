@@ -30,8 +30,8 @@ I’m currently working on <a href="https://github.com/ansible">Ansible</a>.
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="yagomarquesja@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=yagomarquesja@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yagomarques/?locale=en_US" /></a>
+  <a href="https://www.linkedin.com/in/yagomarques/?locale=en_US" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=yagomarques" /></a>
