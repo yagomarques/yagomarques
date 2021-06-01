@@ -1,16 +1,19 @@
-### Hi folks 👋
+### Hi folks 👋 I'm Yago, Quality Engineer @ Red Hat
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  I'm Yago, Quality engineer with 5 years of experience in quality culture dissemination, automation, agile testing. With the background to work side by side with the Dev team developing and testing necessary features together, always applying continuous improvement, and searching for good metrics. Experience with solutions in various areas: financial, urban mobility, medical, payments. Knowledge in agile, microservices, shift-left, BDD, E2E, and UI automation.
+  Quality engineer with 5 years of experience in quality culture dissemination, automation, agile testing. With the background to work side by side with the Dev team, developing and testing necessary features together, always applying continuous improvement, and searching for good metrics. Experience with solutions in various areas: financial, urban mobility, medical, payments. Knowledge in agile, microservices, shift-left, BDD, E2E, and UI automation.
+</p>
+
+I’m currently working on <a href="https://github.com/ansible">Ansible</a>.
+
+### I've worked with:
+<p align="left">
+  🦄 Languages: Ruby, Python, GO, Elixir and Java.
 </p>
 
 <p align="left">
-  🦄 Languages: Ruby, Python, GO and Java.
-</p>
-
-<p align="left">
-  🧰 Automation Frameworks: Httparty, Capybara, Selenium, PyTest, Robot Framework.
+  🧰 Automation Frameworks: Httparty, Capybara, Selenium, PyTest, Robot Framework, whitebread.
 </p>
 
 <p align="left">
