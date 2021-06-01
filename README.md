@@ -30,7 +30,7 @@ I’m currently working on <a href="https://github.com/ansible">Ansible</a>.
 </p>
 
 <p align="left">
-  <a href="mailto:yagomarquesja@gmail.com" alt="Gmail">
+  <a href="yagomarquesja@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=yagomarquesja@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/yagomarques/?locale=en_US" alt="Linkedin">
