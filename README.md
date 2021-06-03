@@ -13,7 +13,7 @@ I’m currently working on <a href="https://github.com/ansible">Ansible</a>.
 </p>
 
 <p align="left">
-  🧰 Automation Frameworks: Httparty, Capybara, Selenium, PyTest, Robot Framework, whitebread.
+  🧰 Automation Frameworks: Httparty, Capybara, Selenium, PyTest, Robot Framework, whitebread and Cypress.
 </p>
 
 <p align="left">
