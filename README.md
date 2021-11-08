@@ -5,7 +5,6 @@
   Quality engineer with 5 years of experience in quality culture dissemination, automation, agile testing. With the background to work side by side with the Dev team, developing and testing necessary features together, always applying continuous improvement, and searching for good metrics. Experience with solutions in various areas: financial, urban mobility, medical, payments. Knowledge in agile, microservices, shift-left, BDD, E2E, and UI automation.
 </p>
 
-I’m currently working on <a href="https://github.com/ansible">Ansible</a>.
 
 ### I've worked with:
 <p align="left">
