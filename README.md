@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Quality engineer with 5 years of experience in quality culture dissemination, automation, agile testing. With the background to work side by side with the Dev team, developing and testing necessary features together, always applying continuous improvement, and searching for good metrics. Experience with solutions in various areas: financial, urban mobility, medical, payments. Knowledge in agile, microservices, shift-left, BDD, E2E, and UI automation.
+  Quality engineer with 7 years of experience in quality culture dissemination, automation, agile testing. With the background to work side by side with the Dev team, developing and testing necessary features together, always applying continuous improvement, and searching for good metrics. Experience with solutions in various areas: financial, urban mobility, medical, payments. Knowledge in agile, microservices, shift-left, BDD, E2E, and UI automation.
 </p>
 
 
