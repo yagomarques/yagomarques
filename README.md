@@ -6,7 +6,7 @@
 </p>
 
 
-### I've worked with:
+### I've already worked:
 <p align="left">
   🦄 Languages: Ruby, Python, GO, Elixir and Java.
 </p>
